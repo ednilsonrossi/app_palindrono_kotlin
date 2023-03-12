@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Palindromo</string>
+    <string name="textview_message">É um palíndromo? \n (versão beta, somente caracteres)</string>
+    <string name="edittext_hint">Digite palavra ou frase</string>
+    <string name="btn_check_text">verificar</string>
+</resources>
